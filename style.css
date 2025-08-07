@@ -1,0 +1,14 @@
+img {
+  max-width: 100px;
+  border-radius: 50%;
+  margin-left: -50px;
+}
+
+img:first-of-type {
+  margin-left: 0px;
+}
+
+.content {
+  background-color: pink;
+  padding: 40px;
+}
